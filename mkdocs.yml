@@ -7,5 +7,4 @@ nav:
     - About: about.md
     - R106: R106/r106.md
 
-theme:
-    name: readthedocs
+theme: readthedocs
