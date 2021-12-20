@@ -1,0 +1,11 @@
+site_name: BUT INFO
+
+docs_dir: BUT-INFO
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - R106: R106/r106.md
+
+theme:
+    name: readthedocs
