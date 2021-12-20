@@ -18,8 +18,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
-   test
-   ds
-   ds2
+   R106/R106.md
