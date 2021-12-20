@@ -18,4 +18,4 @@ Contents
 
 .. toctree::
 
-   R106/R106.md
+   R106/R106.rst
