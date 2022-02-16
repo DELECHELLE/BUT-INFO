@@ -6,6 +6,6 @@ nav:
     - Home: index.md
     - About: about.md
     - Ressources:
-        - r106.md
+        - R106: r106.md
 
 theme: readthedocs
