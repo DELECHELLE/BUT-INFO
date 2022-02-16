@@ -5,8 +5,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * [First list item](index.md)
 * Subsection title
     * [Something](about.md)
-    * r106/*.md
-* [Other directory](r106/)
+    * R106.md
+* [Other directory](R106/)
 
 
 ## Commands
