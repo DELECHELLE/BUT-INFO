@@ -6,7 +6,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * Subsection title
     * [Something](about.md)
     * [R106](R106.md)
-* [Other directory](R106/)
+* [Other directory](r106/)
 
 
 ## Commands
