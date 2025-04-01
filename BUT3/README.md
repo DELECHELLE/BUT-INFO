@@ -6,6 +6,7 @@
 
 **`Parcours Data`**
 - [R5.C.04](./R5C04) - Programmation au format Web des informations décisionnelles
+- [R5.C.07](./R5C07) - Données massives
 - [R5.C.11](./R5C11) - Optimisation des données et des systèmes décisionnels
 
 **`Tronc commun`**
