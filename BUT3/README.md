@@ -7,3 +7,5 @@
 #### Parcours "Data"
 - [R5.C.04](./R5C04) - Programmation au format Web des informations décisionnelles
 
+#### Tronc commun
+- [R5.C.12-R5.A.15] (./) Transition écologique et développement soutenable
