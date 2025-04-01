@@ -1,7 +1,9 @@
 ## BUT 2ème année
 
 **`Parcours Développement`**
+<small>
 - [R4.A.10](./R4A10) - Complément web
+</small>
 
 **`Parcours Data`**
 - [R4.C.10](./R4C10) - Analyse et visualisation des données
