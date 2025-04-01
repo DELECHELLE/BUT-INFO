@@ -1,6 +1,7 @@
 # BUT-INFO
 
-<font color='red'>Département Informatique - IUT de Créteil-Vitry</font>
+*Département Informatique - IUT de Créteil-Vitry*
+
 
 [**`BUT 1ère année`**](./BUT1)
 
