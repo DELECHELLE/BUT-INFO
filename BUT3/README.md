@@ -8,4 +8,4 @@
 - [R5.C.04](./R5C04) - Programmation au format Web des informations décisionnelles
 
 #### Tronc commun
-- [R5.C.13-R5.A.15] (./R5C13-R5A15) Transition écologique et développement soutenable
+- [R5.C.13-R5.A.15](./R5C13-R5A15) Transition écologique et développement soutenable
