@@ -1,1 +1,11 @@
-# BUT 1ère année
+## BUT 1ère année
+
+**`Tronc commun`**
+- [R1.01](./R101) - Initiation au développement
+- [R1.02](./R102) - Développement d'interfaces web
+- [R1.03](./R103) - Introduction à l'architecture des ordinateurs
+- [R1.05](./R105) - Introduction aux bases de données et SQL
+- [R1.09](./R109) - Economie durable et numérique
+- [R2.01](./R201) - Développement orienté objets
+- [R2.02](./R202) - Développement d'applications avec IHM
+- [R2.15](./R215) - Initiation aux données et à l'IA
