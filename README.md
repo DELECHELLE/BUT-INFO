@@ -18,6 +18,20 @@
 - [SAE1.02](./SAE102) - Comparaison d'approches algorithmiques
 - [SAE1.04](./SAE104) - Création d'une base de données
 
-[**`BUT 2ème année`**](./BUT2)
+## [**`BUT 2ème année`**](./BUT2)
+**`Parcours Développement`**
+- [R4.A.10](./R4A10) - Complément web
 
-[**`BUT 3ème année`**](./BUT3)
+**`Parcours Data`**
+- [R4.C.10](./R4C10) - Analyse et visualisation des données
+- [R4.C.12](./R4C12) - Initiation au GéoWeb et au mashup
+
+**`Tronc commun`**
+- [R3.01](./R301) - Développement web
+- [R3.15](./R315) - Numérique et transition écologique
+
+**`SAE`**
+- [SAE3.A.01](./SAE3A01) - Développement d’une application
+- [SAE3.C.01](./SAE3C01) - Création et exploitation d’une base de données
+
+## [**`BUT 3ème année`**](./BUT3)
