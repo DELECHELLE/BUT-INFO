@@ -1,5 +1,9 @@
 # BUT-INFO
 
+<table style="border:none">
+  <th><td>TYTYTY</td></th>
+</table>
+
 *Département Informatique - IUT de Créteil-Vitry*
 
 ## [**`BUT 1ère année`**](./BUT1)
