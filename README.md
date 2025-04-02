@@ -1,7 +1,13 @@
 # BUT-INFO
 
-<table style="border:none">
-  <th><td>TYTYTY</td></th>
+<style>
+td, th {
+   border: none!important;
+}
+</style
+  
+<table>
+  <thead><th><td>TYTYTY</td><td>TYTYTY</td></th></thead>
 </table>
 
 *Département Informatique - IUT de Créteil-Vitry*
