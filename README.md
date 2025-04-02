@@ -2,7 +2,7 @@
 
 *Département Informatique - IUT de Créteil-Vitry*
 
-## [**`BUT 1ère année`**](./BUT1)
+### [**`BUT 1ère année`**](./BUT1)
 **`Tronc commun`**
 - [R1.01](./BUT1/R101) - Initiation au développement
 - [R1.02](./BUT1/R102) - Développement d'interfaces web
@@ -18,7 +18,7 @@
 - [SAE1.02](./BUT1/SAE102) - Comparaison d'approches algorithmiques
 - [SAE1.04](./BUT1/SAE104) - Création d'une base de données
 
-## [**`BUT 2ème année`**](./BUT2)
+### [**`BUT 2ème année`**](./BUT2)
 **`Parcours Développement`**
 - [R4.A.10](./BUT2/R4A10) - Complément web
 
@@ -34,7 +34,7 @@
 - [SAE3.A.01](./BUT2/SAE3A01) - Développement d’une application
 - [SAE3.C.01](./BUT2/SAE3C01) - Création et exploitation d’une base de données
 
-## [**`BUT 3ème année`**](./BUT3)
+### [**`BUT 3ème année`**](./BUT3)
 **`Parcours Développement`**
 - [R5.A.05](./BUT3/R5A05) - Programmation avancée
 - [R5.A.06](./BUT3/R5A06) - Sensibilisation à la programmation multimédia
