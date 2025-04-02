@@ -19,6 +19,10 @@
 - [SAE1.04](./BUT1/SAE104) - Création d'une base de données
 
 ### [**`BUT 2ème année`**](./BUT2)
+**`Tronc commun`**
+- [R3.01](./BUT2/R301) - Développement web
+- [R3.15](./BUT2/R315) - Numérique et transition écologique
+
 **`Parcours Développement`**
 - [R4.A.10](./BUT2/R4A10) - Complément web
 
@@ -26,15 +30,14 @@
 - [R4.C.10](./BUT2/R4C10) - Analyse et visualisation des données
 - [R4.C.12](./BUT2/R4C12) - Initiation au GéoWeb et au mashup
 
-**`Tronc commun`**
-- [R3.01](./BUT2/R301) - Développement web
-- [R3.15](./BUT2/R315) - Numérique et transition écologique
-
 **`SAE`**
 - [SAE3.A.01](./BUT2/SAE3A01) - Développement d’une application
 - [SAE3.C.01](./BUT2/SAE3C01) - Création et exploitation d’une base de données
 
 ### [**`BUT 3ème année`**](./BUT3)
+**`Tronc commun`**
+- [R5.C.13-R5.A.15](./BUT3/R5C13-R5A15) - Transition écologique et développement soutenable
+
 **`Parcours Développement`**
 - [R5.A.05](./BUT3/R5A05) - Programmation avancée
 - [R5.A.06](./BUT3/R5A06) - Sensibilisation à la programmation multimédia
@@ -43,6 +46,3 @@
 - [R5.C.04](./BUT3/R5C04) - Programmation au format Web des informations décisionnelles
 - [R5.C.07](./BUT3/R5C07) - Données massives
 - [R5.C.11](./BUT3/R5C11) - Optimisation des données et des systèmes décisionnels
-
-**`Tronc commun`**
-- [R5.C.13-R5.A.15](./BUT3/R5C13-R5A15) - Transition écologique et développement soutenable
