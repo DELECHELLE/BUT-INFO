@@ -1,15 +1,5 @@
 # BUT-INFO
 
-<style>
-td, th {
-   border: none!important;
-}
-</style
-  
-<table>
-  <thead><th><td>TYTYTY</td><td>TYTYTY</td></th></thead>
-</table>
-
 *Département Informatique - IUT de Créteil-Vitry*
 
 ## [**`BUT 1ère année`**](./BUT1)
