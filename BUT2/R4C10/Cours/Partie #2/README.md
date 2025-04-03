@@ -1,2 +1,2 @@
 ## Cours et activité
-PArtie #2 : 
+Partie #2 : Analyse et visualisation des données 
